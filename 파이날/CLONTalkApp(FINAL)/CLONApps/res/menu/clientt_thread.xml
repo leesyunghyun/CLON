@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/listmember"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="접속자 목록"/>
+
+</menu>
